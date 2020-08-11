@@ -19,6 +19,7 @@ Current Bootloader: [OpenCore 0.6.0](https://github.com/acidanthera/OpenCorePkg/
 
 -   Fast Boot
 -   Secure Boot
+-   CSM Support
 -   Intel Platform Trust
 -   VT-d
 
@@ -30,7 +31,7 @@ Current Bootloader: [OpenCore 0.6.0](https://github.com/acidanthera/OpenCorePkg/
 
 ### Others:
 
--   OS type: (Windows 10 Feautres: Other)
+-   Windows 10 Feautures: Other
 -   DVMT Pre-Allocated (iGPU Memory): 64MB
 -   Initial Display Ouput: IGFX (for using Internal graphics)
 
