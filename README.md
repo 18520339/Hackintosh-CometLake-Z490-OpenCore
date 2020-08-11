@@ -39,3 +39,4 @@ Many thanks to:
 -   https://dortania.github.io/OpenCore-Install-Guide/
 -   https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D
 -   https://github.com/SwimmingPig/Hackintosh-Intel-i5-10400-Gigabyte-Z490M-Gaming-X
+-   https://www.youtube.com/watch?v=a9rA0F6g61s
