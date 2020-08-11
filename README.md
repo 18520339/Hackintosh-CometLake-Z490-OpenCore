@@ -1,14 +1,15 @@
 # Hackintosh on CometLake Z490 PC with OpenCore
 
 OS Version: MacOS Catalina 10.15.6
+
 Current Bootloader: [OpenCore 0.6.0](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
 
 ## Hardware
 
 -   CPU: Intel Core i9 10th Gen (_Comet Lake_)
 -   Mainboard: Gigabyte Z490 Gaming X
--   iGPU: Intel UHD Graphics 630 (_for MacOS_)
--   dGPU: NVIDIA RTX 2080 Super (_for Windows_)
+-   iGPU: Intel UHD Graphics 630 (_used for MacOS_)
+-   dGPU: NVIDIA RTX 2080 Super (_used for Windows_)
 
 ## Bios Settings
 
