@@ -1,5 +1,7 @@
 # Hackintosh on CometLake Z490 PC with OpenCore
 
+![demo](https://github.com/18520339/Hackintosh-CometLake-Z490-OpenCore/blob/master/demo.png)
+
 OS Version: MacOS Catalina 10.15.6
 
 Current Bootloader: [OpenCore 0.6.0](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
