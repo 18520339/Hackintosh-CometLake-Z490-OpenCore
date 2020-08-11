@@ -1,6 +1,6 @@
 # Hackintosh on CometLake Z490 PC with OpenCore
 
-![demo](https://github.com/18520339/Hackintosh-CometLake-Z490-OpenCore/blob/master/demo.png)
+<img src="https://github.com/18520339/Hackintosh-CometLake-Z490-OpenCore/blob/master/demo.png" />
 
 OS Version: MacOS Catalina 10.15.6
 
@@ -32,7 +32,7 @@ Current Bootloader: [OpenCore 0.6.0](https://github.com/acidanthera/OpenCorePkg/
 
 -   OS type: (Windows 10 Feautres: Other)
 -   DVMT Pre-Allocated (iGPU Memory): 64MB
--   Initial Ouput: IGFX (for using on board graphics)
+-   Initial Display Ouput: IGFX (for using Internal graphics)
 
 ## Reference
 
