@@ -35,9 +35,7 @@ Current Bootloader: [OpenCore 0.6.0](https://github.com/acidanthera/OpenCorePkg/
 -   DVMT Pre-Allocated (iGPU Memory): 64MB
 -   Initial Display Ouput: IGFX (for using Internal graphics)
 
-## Reference
-
-Many thanks to:
+## Many thanks to
 
 -   https://dortania.github.io/OpenCore-Install-Guide/
 -   https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D
